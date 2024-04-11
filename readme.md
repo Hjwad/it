@@ -2,6 +2,8 @@
     ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
 </h2>
 
+## This is the Final Update and this repo is now Archieved and no more new updates
+
 <p align="center">
   <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
 </p>
